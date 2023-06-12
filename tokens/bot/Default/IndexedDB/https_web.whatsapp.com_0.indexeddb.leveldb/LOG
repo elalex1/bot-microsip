@@ -1,0 +1,9 @@
+2023/06/12-14:38:59.474 b9c Creating DB C:\xampp\htdocs\bot microsip\tokens\bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/06/12-14:38:59.496 b9c Reusing MANIFEST C:\xampp\htdocs\bot microsip\tokens\bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/12-14:38:59.641 2cec Level-0 table #5: started
+2023/06/12-14:38:59.655 2cec Level-0 table #5: 7249 bytes OK
+2023/06/12-14:38:59.663 2cec Delete type=0 #3
+2023/06/12-14:38:59.664 2cec Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/12-14:39:25.780 2cec Level-0 table #7: started
+2023/06/12-14:39:25.871 2cec Level-0 table #7: 1099707 bytes OK
+2023/06/12-14:39:25.879 2cec Delete type=0 #4
